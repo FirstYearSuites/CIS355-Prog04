@@ -388,9 +388,9 @@ class Customer {
         echo "
             </head>
             <body>
-                <a href='https://github.com/' target='_blank'>GitHub</a><br />
-                <a href='diagrams/CustomerFlow.pdf' target='_blank'>Flow Diagram</a><br />
-                <a href='diagrams/CustomerUML.pdf' target='_blank'>UML Diagram</a><br />
+                <a href='https://github.com/FirstYearSuites/CIS355-Prog04' target='_blank'>GitHub</a><br />
+                <a href='diagrams/Screenflow1.PNG' target='_blank'>Flow Diagram</a><br />
+                <a href='diagrams/UML..PNG' target='_blank'>UML Diagram</a><br />
 		<a href='uploads1/' >Image Uploads</a><br />
                 <div class='container'>
                     <p class='row'>
@@ -407,9 +407,9 @@ class Customer {
                                     <th>Name</th>
                                     <th>Email</th>
                                     <th>Mobile</th>
-                                    <th>BLOB Loaded Picture</th>
-                                    <th>Path Loaded Picture</th>
-                                    <th>Path To Picture</th>
+                                    <th>BLOB Image</th>
+                                    <th>Path Image</th>
+                                    <th>File Path in csis server</th>
                                     <th>Description</th>
                                     <th>Action</th>
                                 </tr>
